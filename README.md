@@ -16,11 +16,11 @@ A simple chatbot to offer some advices on mental health
   source venv/bin/activate
   
 # Install Requirements
-  pip install tensorflow
-  pip install flask
-  pip install numpy
-  pip install keras
-  pip install nltk
+  pip install tensorflow \n
+  pip install flask \n
+  pip install numpy \n
+  pip install keras \n
+  pip install nltk \n
   
 # Run Training File
   python3 training.py
