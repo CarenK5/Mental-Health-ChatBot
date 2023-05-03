@@ -15,17 +15,21 @@ A simple chatbot to offer some advices on mental health
 ## Activate Virtual Environment
   source venv/bin/activate
   
-# Install Requirements
-  pip install tensorflow \n
-  pip install flask \n
-  pip install numpy \n
-  pip install keras \n
-  pip install nltk \n
+## Install Requirements
+  pip install tensorflow 
   
-# Run Training File
+  pip install flask 
+  
+  pip install numpy 
+  
+  pip install keras 
+  
+  pip install nltk 
+  
+## Run Training File
   python3 training.py
 
-# Deploy on Flask
+## Deploy on Flask
   python3 app.py
 
 # Congatulations!!
